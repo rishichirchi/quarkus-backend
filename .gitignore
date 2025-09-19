@@ -330,7 +330,7 @@ docker-compose.override.yaml
 docker-compose.production.yml
 docker-compose.staging.yml
 docker-compose.local.yml
-docker-compose.yml
+docker-compose.temp.yml
 /frontend/docker-compose.full-stack.yml
 
 # ======================================
